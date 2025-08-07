@@ -63,10 +63,10 @@ A user-friendly database application built using **MS Access**, **VBA**, and **S
 **Abhishek Jula**  
 🔗 [LinkedIn]
 
-    [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)
+    https://www.linkedin.com/in/abhi-jula0711
 • 💻[GitHub]
 
-    [GitHub](https://github.com/yourusername)
+    https://github.com/ABHISHEKJULA07
 
 ---
 
