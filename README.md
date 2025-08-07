@@ -58,7 +58,7 @@ A user-friendly database application built using **MS Access**, **VBA**, and **S
 
 ---
 
-## 🙌 Author
+## 🙌 Devoped by
 
 **Abhishek Jula**  
 🔗 [LinkedIn]
