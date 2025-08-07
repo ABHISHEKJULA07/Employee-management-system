@@ -57,7 +57,7 @@ A user-friendly database application built using **MS Access**, **VBA**, and **S
 4. Use Reports tab to generate summaries
 
 ---
-## 📌 Developed By
+## 👨‍💻 Developed By
 
 **Abhishek Jula** 
 
