@@ -61,10 +61,11 @@ A user-friendly database application built using **MS Access**, **VBA**, and **S
 ## 🙌 Author
 
 **Abhishek Jula**  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711) • 💻 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn]
+    [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)
+• 💻[GitHub]
+    [GitHub](https://github.com/yourusername)
 
 ---
 
-## 📃 License
 
-Free for educational and project use. MIT License.
