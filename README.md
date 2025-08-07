@@ -57,7 +57,6 @@ A user-friendly database application built using **MS Access**, **VBA**, and **S
 4. Use Reports tab to generate summaries
 
 ---
-
 ## 📌 Developed By
 
 **Abhishek Jula**  
@@ -69,4 +68,5 @@ A user-friendly database application built using **MS Access**, **VBA**, and **S
   https://abhipinku66.wixsite.com/07112000  
 • 📧 [Email]  
   abhishekjula018@gmail.com
+
 
