@@ -1,12 +1,6 @@
 # 👥 Employee Management System
-
-A desktop-based **Employee Management System** built using **MS Access**, **VBA**, and **SQL Queries**, designed to streamline HR operations including employee data entry, attendance tracking, leave management, and salary report generation — all within a user-friendly interface.
-
----
-
-## 🚀 Project Overview
-
-This project enables organizations to efficiently manage employee information and automate repetitive HR tasks. It uses relational database principles and forms-driven input with backend automation to ensure data consistency and operational efficiency.
+Overview
+This project is an Employee Management System built using Microsoft Access and VBA (Visual Basic for Applications). The application provides a user-friendly interface to manage and organize employee information efficiently. It allows for the storage of personal details, department assignments, salary information, and attendance records. The system is designed to streamline HR tasks, providing a structured way to handle employee data and generate essential reports.
 
 ---
 
@@ -17,6 +11,23 @@ This project enables organizations to efficiently manage employee information an
 | **MS Access**  | GUI, Relational DB, Reports      |
 | **VBA**        | Backend logic for forms & events |
 | **SQL Queries**| Custom logic for data summaries  |
+
+Technologies Used
+Microsoft Access: The primary platform for the database and user interface.
+
+VBA (Visual Basic for Applications): Used to develop custom logic, automate tasks, and enhance the functionality of forms and reports.
+
+SQL (Structured Query Language): Employed for creating and executing custom queries to retrieve and manipulate data.
+
+How to Use
+Open the Database: Launch the Employee_Management_System.accdb file in Microsoft Access.
+
+Navigate: Use the main dashboard or navigation pane to access different forms, reports, and queries.
+
+Add/Update Data: Use the dedicated forms to enter new employee information or modify existing records.
+
+Generate Reports: Navigate to the reporting section to generate monthly attendance and salary reports for review.
+
 
 ---
 
