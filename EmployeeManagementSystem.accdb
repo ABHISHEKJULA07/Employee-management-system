@@ -1,0 +1,7 @@
+Placeholder for Employee Management System MS Access database.
+This would include:
+- Tables: Employees, Departments, Salaries, Attendance
+- Forms: Add/Update Employee, Leave Tracking, Department Summary
+- Queries: Monthly Attendance, Salary Calculation, Leave Tracking
+- Reports: Monthly Attendance Report, Salary Report
+- VBA code for automation
